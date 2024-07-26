@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\New folder\\prct2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A140EFA3-1398-4691-9525-EFA0D263FFE2}|Project.Net8\\Project.Net8.csproj|c:\\new folder\\prct2\\project.net8\\models\\major\\baithimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A140EFA3-1398-4691-9525-EFA0D263FFE2}|Project.Net8\\Project.Net8.csproj|solutionrelative:project.net8\\models\\major\\baithimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A140EFA3-1398-4691-9525-EFA0D263FFE2}|Project.Net8\\Project.Net8.csproj|c:\\new folder\\prct2\\project.net8\\controllers\\major\\baithicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A140EFA3-1398-4691-9525-EFA0D263FFE2}|Project.Net8\\Project.Net8.csproj|solutionrelative:project.net8\\controllers\\major\\baithicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A140EFA3-1398-4691-9525-EFA0D263FFE2}|Project.Net8\\Project.Net8.csproj|c:\\new folder\\prct2\\project.net8\\service\\defaultrepository\\defaultrepositoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A140EFA3-1398-4691-9525-EFA0D263FFE2}|Project.Net8\\Project.Net8.csproj|solutionrelative:project.net8\\service\\defaultrepository\\defaultrepositoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A140EFA3-1398-4691-9525-EFA0D263FFE2}|Project.Net8\\Project.Net8.csproj|c:\\new folder\\prct2\\project.net8\\models\\core\\filemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A140EFA3-1398-4691-9525-EFA0D263FFE2}|Project.Net8\\Project.Net8.csproj|solutionrelative:project.net8\\models\\core\\filemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A140EFA3-1398-4691-9525-EFA0D263FFE2}|Project.Net8\\Project.Net8.csproj|c:\\new folder\\prct2\\project.net8\\controllers\\defaultrepository\\defaultrepositorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A140EFA3-1398-4691-9525-EFA0D263FFE2}|Project.Net8\\Project.Net8.csproj|solutionrelative:project.net8\\controllers\\defaultrepository\\defaultrepositorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A140EFA3-1398-4691-9525-EFA0D263FFE2}|Project.Net8\\Project.Net8.csproj|c:\\new folder\\prct2\\project.net8\\service\\major\\baithiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A140EFA3-1398-4691-9525-EFA0D263FFE2}|Project.Net8\\Project.Net8.csproj|solutionrelative:project.net8\\service\\major\\baithiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A140EFA3-1398-4691-9525-EFA0D263FFE2}|Project.Net8\\Project.Net8.csproj|c:\\new folder\\prct2\\project.net8\\service\\core\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A140EFA3-1398-4691-9525-EFA0D263FFE2}|Project.Net8\\Project.Net8.csproj|solutionrelative:project.net8\\service\\core\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A140EFA3-1398-4691-9525-EFA0D263FFE2}|Project.Net8\\Project.Net8.csproj|c:\\new folder\\prct2\\project.net8\\controllers\\core\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A140EFA3-1398-4691-9525-EFA0D263FFE2}|Project.Net8\\Project.Net8.csproj|solutionrelative:project.net8\\controllers\\core\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A140EFA3-1398-4691-9525-EFA0D263FFE2}|Project.Net8\\Project.Net8.csproj|c:\\new folder\\prct2\\project.net8\\constants\\defaultfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A140EFA3-1398-4691-9525-EFA0D263FFE2}|Project.Net8\\Project.Net8.csproj|solutionrelative:project.net8\\constants\\defaultfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A140EFA3-1398-4691-9525-EFA0D263FFE2}|Project.Net8\\Project.Net8.csproj|c:\\new folder\\prct2\\project.net8\\interface\\core\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A140EFA3-1398-4691-9525-EFA0D263FFE2}|Project.Net8\\Project.Net8.csproj|solutionrelative:project.net8\\interface\\core\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DefaultRepositoryService.cs",
+              "DocumentMoniker": "C:\\New folder\\prct2\\Project.Net8\\Service\\DefaultRepository\\DefaultRepositoryService.cs",
+              "RelativeDocumentMoniker": "Project.Net8\\Service\\DefaultRepository\\DefaultRepositoryService.cs",
+              "ToolTip": "C:\\New folder\\prct2\\Project.Net8\\Service\\DefaultRepository\\DefaultRepositoryService.cs",
+              "RelativeToolTip": "Project.Net8\\Service\\DefaultRepository\\DefaultRepositoryService.cs",
+              "ViewState": "AQIAAO8AAAAAAAAAAAAmwAkBAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T07:35:48.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileModel.cs",
+              "DocumentMoniker": "C:\\New folder\\prct2\\Project.Net8\\Models\\Core\\FileModel.cs",
+              "RelativeDocumentMoniker": "Project.Net8\\Models\\Core\\FileModel.cs",
+              "ToolTip": "C:\\New folder\\prct2\\Project.Net8\\Models\\Core\\FileModel.cs",
+              "RelativeToolTip": "Project.Net8\\Models\\Core\\FileModel.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAcwBcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T04:23:59.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaiThiModel.cs",
+              "DocumentMoniker": "C:\\New folder\\prct2\\Project.Net8\\Models\\Major\\BaiThiModel.cs",
+              "RelativeDocumentMoniker": "Project.Net8\\Models\\Major\\BaiThiModel.cs",
+              "ToolTip": "C:\\New folder\\prct2\\Project.Net8\\Models\\Major\\BaiThiModel.cs",
+              "RelativeToolTip": "Project.Net8\\Models\\Major\\BaiThiModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T03:42:37.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaiThiService.cs",
+              "DocumentMoniker": "C:\\New folder\\prct2\\Project.Net8\\Service\\Major\\BaiThiService.cs",
+              "RelativeDocumentMoniker": "Project.Net8\\Service\\Major\\BaiThiService.cs",
+              "ToolTip": "C:\\New folder\\prct2\\Project.Net8\\Service\\Major\\BaiThiService.cs",
+              "RelativeToolTip": "Project.Net8\\Service\\Major\\BaiThiService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T02:50:56.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DefaultFile.cs",
+              "DocumentMoniker": "C:\\New folder\\prct2\\Project.Net8\\Constants\\DefaultFile.cs",
+              "RelativeDocumentMoniker": "Project.Net8\\Constants\\DefaultFile.cs",
+              "ToolTip": "C:\\New folder\\prct2\\Project.Net8\\Constants\\DefaultFile.cs",
+              "RelativeToolTip": "Project.Net8\\Constants\\DefaultFile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T02:17:03.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\New folder\\prct2\\Project.Net8\\Service\\Core\\FileService.cs",
+              "RelativeDocumentMoniker": "Project.Net8\\Service\\Core\\FileService.cs",
+              "ToolTip": "C:\\New folder\\prct2\\Project.Net8\\Service\\Core\\FileService.cs",
+              "RelativeToolTip": "Project.Net8\\Service\\Core\\FileService.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAAwL8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:33:02.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IFileService.cs",
+              "DocumentMoniker": "C:\\New folder\\prct2\\Project.Net8\\Interface\\Core\\IFileService.cs",
+              "RelativeDocumentMoniker": "Project.Net8\\Interface\\Core\\IFileService.cs",
+              "ToolTip": "C:\\New folder\\prct2\\Project.Net8\\Interface\\Core\\IFileService.cs",
+              "RelativeToolTip": "Project.Net8\\Interface\\Core\\IFileService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:31:25.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DefaultRepositoryController.cs",
+              "DocumentMoniker": "C:\\New folder\\prct2\\Project.Net8\\Controllers\\DefaultRepository\\DefaultRepositoryController.cs",
+              "RelativeDocumentMoniker": "Project.Net8\\Controllers\\DefaultRepository\\DefaultRepositoryController.cs",
+              "ToolTip": "C:\\New folder\\prct2\\Project.Net8\\Controllers\\DefaultRepository\\DefaultRepositoryController.cs",
+              "RelativeToolTip": "Project.Net8\\Controllers\\DefaultRepository\\DefaultRepositoryController.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAWwJkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:50:38.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FilesController.cs",
+              "DocumentMoniker": "C:\\New folder\\prct2\\Project.Net8\\Controllers\\Core\\FilesController.cs",
+              "RelativeDocumentMoniker": "Project.Net8\\Controllers\\Core\\FilesController.cs",
+              "ToolTip": "C:\\New folder\\prct2\\Project.Net8\\Controllers\\Core\\FilesController.cs",
+              "RelativeToolTip": "Project.Net8\\Controllers\\Core\\FilesController.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAADwv2AAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:24:50.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaiThiController.cs",
+              "DocumentMoniker": "C:\\New folder\\prct2\\Project.Net8\\Controllers\\Major\\BaiThiController.cs",
+              "RelativeDocumentMoniker": "Project.Net8\\Controllers\\Major\\BaiThiController.cs",
+              "ToolTip": "C:\\New folder\\prct2\\Project.Net8\\Controllers\\Major\\BaiThiController.cs",
+              "RelativeToolTip": "Project.Net8\\Controllers\\Major\\BaiThiController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwB4AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:33:49.147Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
