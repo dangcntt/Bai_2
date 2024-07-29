@@ -8,7 +8,7 @@ using Project.Net8.Service.Common;
 using Project.Net8.Service.Core;
 using Project.Net8.Service.Major;
 using Project.Net8.Service.Permission;
-using UserService = Project.Net8.Service.Core.UserService;
+using UserService = Project.Net8.Service.Permission.UserService;
 
 namespace Project.Net8.Installers
 {
@@ -42,12 +42,13 @@ namespace Project.Net8.Installers
             services.AddScoped<IAPIService, APIService>();
             services.AddScoped<IUserService, UserService>();
             services.AddScoped<IDiaGioiHanhChinhService, DiaGioiHanhChinhService>();
+            services.AddScoped<IUnitRoleService, UnitRoleService>();
 
             #endregion
 
 
             #region Nghiệp vụ  
-           
+
             services.AddScoped<IMenuCitizenService, MenuCitizenService>();
             
             services.AddScoped<INewsService, NewsService>();
